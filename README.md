@@ -2,6 +2,11 @@
 
 This project focuses on visualizing grocery sales data to uncover insights and trends. By utilizing various visualization techniques, the goal is to provide a clear understanding of sales patterns, product performance, and customer preferences.
 
+https://github.com/AniketOvhal18/Grocery-Data-Visualization-/blob/main/groccery%20visualization.png
+
+![groccery](https://github.com/AniketOvhal18/Grocery-Data-Visualization-/blob/main/groccery%20visualization.png)
+
+
 ## Dataset
 The dataset contains information about grocery sales, including:
 
